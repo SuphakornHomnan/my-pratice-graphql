@@ -1,8 +1,5 @@
 # GraphQL by apollo-graphql
 
-## Describe
-- This reposity is created for keeping code that my practice apollo-graphql
-
 ## Work stack 
 [![iamge](https://i0.wp.com/www.artit-k.com/wp-content/uploads/2017/07/Cover-Express.js.png?resize=650%2C300)](https://expressjs.com/)
 
